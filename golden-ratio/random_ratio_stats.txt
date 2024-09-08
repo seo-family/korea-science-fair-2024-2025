@@ -1,0 +1,2 @@
+random ratio avg => 0.1895
+
