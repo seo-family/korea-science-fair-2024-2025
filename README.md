@@ -6,3 +6,6 @@
   - Golden angle (황금각) ([link](golden-angle))
   - Golden ratio (황금비) ([link](golden-ratio))
   - Locker room (락커룸) ([link](locker-room))
+
+- Data analysis (데이터 분석)
+  - Google spreadsheet (구글 스프레드시트) ([link](https://docs.google.com/spreadsheets/d/1TqtMHlamgjhWCuLaqAgLKv4zxsiJdxzPteb3AVw_tuw/edit?gid=0#gid=0))
